@@ -1,0 +1,73 @@
+Ramatoulaye Kebe
+Program #4
+
+	Donations summary table
+ID number          Amount donated
+123                  $8440.10
+418                  $110.00
+738                  $1300.00
+383                  $215.50
+728                  $150.00
+679                  $1250.25
+818                  $7100.50
+100                  $910.75
+999                  $115.00
+647                  $12800.50
+
+Sorted by ID:
+	Donations summary table
+ID number          Amount donated
+100                  $910.75
+123                  $8440.10
+383                  $215.50
+418                  $110.00
+647                  $12800.50
+679                  $1250.25
+728                  $150.00
+738                  $1300.00
+818                  $7100.50
+999                  $115.00
+
+There are requests to process:
+
+Sorted by ID after additions:
+	Donations summary table
+ID number          Amount donated
+100                  $910.75
+123                  $8440.10
+199                  $9800.00
+383                  $215.50
+418                  $110.00
+509                  $4500.00
+544                  $9760.00
+647                  $12800.50
+679                  $1250.25
+728                  $150.00
+738                  $1300.00
+758                  $550.00
+776                  $400.00
+818                  $7100.50
+999                  $115.00
+
+Sorted by donation:
+	Donations summary table
+ID number          Amount donated
+647                  $12800.50
+199                  $9800.00
+544                  $9760.00
+123                  $8440.10
+818                  $7100.50
+509                  $4500.00
+738                  $1300.00
+679                  $1250.25
+100                  $910.75
+758                  $550.00
+776                  $400.00
+383                  $215.50
+728                  $150.00
+999                  $115.00
+418                  $110.00
+
+
+Donor 647 had the highest donation: $12800.5
+The median donation amount is: $1250.25
